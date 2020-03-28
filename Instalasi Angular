@@ -1,1 +1,11 @@
-
+Langkah-langkah instalasi angular :
+1. Pastikan bahwa perangkat telah terinstal nodejs 
+2. Lakukan instalasi angular dengan cara membuka cmd kemudian ketikan perintah npm install -g @angular/cli untuk melakukan penginstalan angular
+3. Jika telah berhasil di instal maka akan muncul tampilan sebagai berikut https://github.com/Dheasyafiras05/tekwebuad_1800016091/issues/2#issue-589584588
+4. Untuk membuat project baru dapat menggunakan perintah ng new NAMA_PROJECT 
+(https://github.com/Dheasyafiras05/tekwebuad_1800016091/issues/3#issue-589585351)
+5. Langkah berikutnya adalah menjalankan project yang telah dibuat yaitu dengan cara pertama masuk terlebih dahulu ke folder atau project yang telah dibuat menggunakan perintah cd NAMA_PROJECT setelah masuk ke project untuk menjalankannya dapat menggunakan perintah ng serve
+(https://github.com/Dheasyafiras05/tekwebuad_1800016091/issues/4#issue-589587125)
+6. Jika project berhasil dijalankan (https://github.com/Dheasyafiras05/tekwebuad_1800016091/issues/5#issue-589593077)
+7. Kemudian dapat diakses pada http://localhost:4200/
+https://github.com/Dheasyafiras05/tekwebuad_1800016091/issues/6#issue-589593313
